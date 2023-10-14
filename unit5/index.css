@@ -1,0 +1,28 @@
+div{
+    background-color: aqua;
+    border: 6px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#box2{
+ 
+    background-image: url("animal.jpg");
+   background-size: contain;
+     background-repeat: no-repeat;
+}
+
+#box3{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    
+}
+#box4{
+    position: fixed;
+    bottom: 0;
+    width: 100vh;
+    height: 100px;
+
+
+}

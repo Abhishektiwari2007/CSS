@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    transform: all 2px ;
+    border: 4px solid black;
+    transition: 2s all ease-in ;
+
+}
+@keyframes colorAnimate {
+    from { background-color: aquamarine;}
+    to {background-color: red;}
+}
+div:hover{
+  
+    
+}

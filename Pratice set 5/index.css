@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#One{
+background-image: url("Fox.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+position: relative;
+height: 100px;
+width: 100px;
+}
+#Two{
+    background-image: url("Parrot.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100px;
+    width: 200px;
+
+}
+#Three{
+    background-image: url("Tiger.jpg");
+    background-size: cover;
+    background-repeat: initial;
+    position: fixed;
+    height: 100px;
+    width: 500px;
+
+}

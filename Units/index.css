@@ -1,0 +1,14 @@
+#box1{
+    height: 100px;
+    width: 50%;
+    background-color: blue;
+    font-family: 10px;
+}
+#box2{
+    height: 10vh;
+    width: 50vh;
+    background-color: yellow;
+    margin-left: 10%;
+    margin-right: 50%;
+    font-size: 2em;
+}

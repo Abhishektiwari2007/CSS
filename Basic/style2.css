@@ -1,0 +1,21 @@
+div{
+    height: 370px;
+    width: 150px;
+    background-color: black;
+    
+}
+#One{
+    background-color: red;
+    border-radius: 50%;
+    height: 100px;
+}
+#Two{
+    background-color: yellow;
+    border-radius: 50%;
+    height: 100px;
+}
+#Three{
+    background-color: green ;
+    border-radius:  50%;
+    height: 100px;
+}
